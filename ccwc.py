@@ -41,7 +41,6 @@ if __name__ == "__main__":
                         help='input file name')
 
     args = parser.parse_args()
-    print(args)
 
     if args.filename:
 
